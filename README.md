@@ -1,1 +1,4 @@
-# PracticaG
+Sara,
+Matias,
+Mariano,
+Camila.
